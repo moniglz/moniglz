@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Moni, a FrontEnd Developer Jr.
+# 🌸 Hi, I'm Moni! - FrontEnd Developer Jr.
 ⚡ Fun fact: I am also a graphic designer and I love to do crafts like embroidery, sewing, drawing/illustrating/coloring. 
 
 ## 🌐 Socials:
