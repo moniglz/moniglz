@@ -1,5 +1,5 @@
 # 🌷 Hi, I'm Moni! - FrontEnd Developer Jr.
-# 💫 About Me:
+
 🔭 I’m currently working on: Movie Challenge with framework<br>🌱 I’m currently learning: React<br>⚡ Fun fact: Graphic Designer. I'm a leftie, I love to do crafts like embroidery, sewing, drawing/illustrating/coloring.
 
 ## 🌐 Socials:
@@ -16,7 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moniglz&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=moniglz&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
